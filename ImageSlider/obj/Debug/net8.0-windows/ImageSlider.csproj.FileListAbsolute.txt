@@ -1,0 +1,16 @@
+C:\Users\ayraa\source\repos\ImageSlider\ImageSlider\bin\Debug\net8.0-windows\ImageSlider.exe
+C:\Users\ayraa\source\repos\ImageSlider\ImageSlider\bin\Debug\net8.0-windows\ImageSlider.deps.json
+C:\Users\ayraa\source\repos\ImageSlider\ImageSlider\bin\Debug\net8.0-windows\ImageSlider.runtimeconfig.json
+C:\Users\ayraa\source\repos\ImageSlider\ImageSlider\bin\Debug\net8.0-windows\ImageSlider.dll
+C:\Users\ayraa\source\repos\ImageSlider\ImageSlider\bin\Debug\net8.0-windows\ImageSlider.pdb
+C:\Users\ayraa\source\repos\ImageSlider\ImageSlider\obj\Debug\net8.0-windows\ImageSlider.Form1.resources
+C:\Users\ayraa\source\repos\ImageSlider\ImageSlider\obj\Debug\net8.0-windows\ImageSlider.csproj.GenerateResource.cache
+C:\Users\ayraa\source\repos\ImageSlider\ImageSlider\obj\Debug\net8.0-windows\ImageSlider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayraa\source\repos\ImageSlider\ImageSlider\obj\Debug\net8.0-windows\ImageSlider.AssemblyInfoInputs.cache
+C:\Users\ayraa\source\repos\ImageSlider\ImageSlider\obj\Debug\net8.0-windows\ImageSlider.AssemblyInfo.cs
+C:\Users\ayraa\source\repos\ImageSlider\ImageSlider\obj\Debug\net8.0-windows\ImageSlider.csproj.CoreCompileInputs.cache
+C:\Users\ayraa\source\repos\ImageSlider\ImageSlider\obj\Debug\net8.0-windows\ImageSlider.dll
+C:\Users\ayraa\source\repos\ImageSlider\ImageSlider\obj\Debug\net8.0-windows\refint\ImageSlider.dll
+C:\Users\ayraa\source\repos\ImageSlider\ImageSlider\obj\Debug\net8.0-windows\ImageSlider.pdb
+C:\Users\ayraa\source\repos\ImageSlider\ImageSlider\obj\Debug\net8.0-windows\ImageSlider.genruntimeconfig.cache
+C:\Users\ayraa\source\repos\ImageSlider\ImageSlider\obj\Debug\net8.0-windows\ref\ImageSlider.dll
